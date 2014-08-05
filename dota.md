@@ -22,7 +22,7 @@ Winner: Knightmare Saints
 Match Id: 817386887
 Duration: 39:20
 
-![Score Sheet](images/2014-08-04 at 10.42.48 PM.png)
+![Score Sheet](images/20140804.png)
 
 #### Lineups
 
