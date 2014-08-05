@@ -45,5 +45,3 @@ Duration: 39:20
 | Tobias Bot	| Enchantress  | 3 | 10 | 2 | 136 | 0 |
 | xxYOLOSWAG69xx| Phantom Assassin | 7 | 7 | 7 | 57 | 3 |
 | Tyler			| Sven		   | 4 | 7 | 8 | 74 | 2 |
-
-![Score Sheet](images/2014-08-04 at 10.42.48 PM.png)
