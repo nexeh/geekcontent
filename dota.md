@@ -11,31 +11,39 @@ We played against tobias bot and his group of 5 and had a good, well matched, ga
 
 Name: Noland Brown
 Email: npbrown18@gmail.com
+Location: Springfield, MA
 
 ## Team Matches
 
 ### KSaints Vs TobiasBot
 
 Date: 08/4/2014 10:00pm EST
+Winner: Knightmare Saints
+Match Id: 817386887
+Duration: 39:20
+
+![Score Sheet](images/2014-08-04 at 10.42.48 PM.png)
 
 #### Lineups
 
 ##### Knightmare Saints
 
-| Player        | Character    | Kills | Deaths | Assists | Last Hits | Denies |
-| ------------- | ------------ | ----- | ------ | ------- | --------- | ------ |
-| Nexeh	        | Undetermined | 0 | 0 | 0 | 0 | 0 |
-| Sotanaht		| Undetermined | 0 | 0 | 0 | 0 | 0 |
-| Lekash		| Undetermined | 0 | 0 | 0 | 0 | 0 |
-| Link			| Undetermined | 0 | 0 | 0 | 0 | 0 |
-| Stompo		| Undetermined | 0 | 0 | 0 | 0 | 0 |
+| Player        | Character    	| Kills | Deaths | Assists | Last Hits | Denies |
+| ------------- | ------------ 	| ----- | ------ | ------- | --------- | ------ |
+| Nexeh	        | Lion 		   	| 5 	| 10 	 | 10 	   | 26 	   | 9 		|
+| Sotanaht		| Clinkz 		| 23 	| 3 	 | 5	   | 144 	   | 1 		|
+| Lekash		| Spirit Breaker| 1 	| 7 	 | 15 	   | 104 	   | 2		|
+| Link			| Drow Ranger   | 5 	| 8 	 | 15 	   | 89 	   | 0 		|
+| Stompo		| Wraith King	| 5 	| 2		 | 7 	   | 104 	   | 0		|
 
 ##### Tobias Bot
 
 | Player        | Character    | Kills | Deaths | Assists | Last Hits | Denies |
 | ------------- | ------------ | ----- | ------ | ------- | --------- | ------ |
-| Tobias Bot	| Undetermined | 0 | 0 | 0 | 0 | 0 |
-| tb1	| Undetermined | 0 | 0 | 0 | 0 | 0 |
-| tb2	| Undetermined | 0 | 0 | 0 | 0 | 0 |
-| tb3	| Undetermined | 0 | 0 | 0 | 0 | 0 |
-| tb4	| Undetermined | 0 | 0 | 0 | 0 | 0 |
+| Master Io		| Lina		   | 7	   | 9 | 7 | 21 | 0 |
+| brownbandit	| Puck		   | 7 | 6 | 19 | 89 | 4 |
+| Tobias Bot	| Enchantress  | 3 | 10 | 2 | 136 | 0 |
+| xxYOLOSWAG69xx| Phantom Assassin | 7 | 7 | 7 | 57 | 3 |
+| Tyler			| Sven		   | 4 | 7 | 8 | 74 | 2 |
+
+![Score Sheet](images/2014-08-04 at 10.42.48 PM.png)
