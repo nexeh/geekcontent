@@ -5,4 +5,8 @@
   * [Gaming Servers](index.md)
 
 [DOTA](dota.md)
-[Geek Village](geekvillage.md)
+
+[Geek Village]()
+
+  * [The Idea](geekvillage.md)
+  * [Association Guidlines](associationstructure.md)

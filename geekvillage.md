@@ -42,6 +42,7 @@ We can explore other ideas for generating revenue to help pay for things.
 - 1 acre(cul-de-sac), 4.350, grantham, http://www.landwatch.com/Sullivan-County-New-Hampshire-Land-for-sale/pid/301465361
 - 1.7 Acres, 12500, conway, http://www.landwatch.com/Carroll-County-New-Hampshire-Land-for-sale/pid/284812513
 - .85 acres, 9000, gratham, http://www.landwatch.com/Sullivan-County-New-Hampshire-Land-for-sale/pid/221282983
+- 1.15 acres (association with a lake), 10500 (405/yr fees), http://www.landwatch.com/Grafton-County-New-Hampshire-Land-for-sale/pid/279534431
 - 1.66 acres (association with a lake), 11500 (405/yr fees)
 - 1.47 acres, 12000, grantham, http://www.landwatch.com/Sullivan-County-New-Hampshire-Land-for-sale/pid/235726016
 - 6.5 acres, 12000, SPRINGFIELD, http://www.landsofnewhampshire.com/new_hampshire/land-for-sale/6.5-acres-in-Sullivan-County-New-Hampshire/id/1293837
@@ -52,5 +53,11 @@ We can explore other ideas for generating revenue to help pay for things.
 - what about the stumps? Can you arrange for them to remove them at the same time?
 - Suggested loggers?
 - When I purchase land in a subdivision/culdecsac would they have a problem with us purchasing the land under another "association/organization"?
+- how much are taxes at my moms?
+	-502yr  25000
+
+## images
+
+<iframe width="100%" height="400px" src="https://drive.google.com/folderview"></iframe>
 
 
