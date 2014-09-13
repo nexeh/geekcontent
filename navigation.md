@@ -8,5 +8,10 @@
 
 [Geek Village]()
 
-  * [The Idea](geekvillage.md)
-  * [Association Guidlines](associationstructure.md)
+  * [The Idea](geekVillage/geekVillage.md)
+  * [Association Guidlines](geekVillage/associationStructure.md)
+  * [Articles of Agreement](geekVillage/articlesOfAgreement.md)
+  - - - -
+  * # Land Images
+  * [Sutton](geekVillage/sutton.md)
+  * [Fremont](geekVillage/fremont.md)
